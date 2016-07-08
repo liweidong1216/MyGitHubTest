@@ -9,6 +9,10 @@ public class Snippet {
 		if(true){
 		System.out.println("this is true");
 		}
+		/*		if(true){
+			System.out.println("this is true");
+		}*/
+		
 	}
 }
 
