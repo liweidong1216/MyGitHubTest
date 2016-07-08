@@ -6,9 +6,6 @@ public class Snippet {
 		if(false){
 			System.out.println("this is false");
 		}
-		if(true){
-			System.out.println("this is true");
-		}
 	}
 }
 
